@@ -1,0 +1,5 @@
+# tokenファイルの無視
+k_token.py
+
+# キャッシュの無視
+__pycache__/
