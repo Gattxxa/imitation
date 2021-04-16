@@ -1,2 +1,2 @@
 # imitation
-discord bot
+身内用discord bot
